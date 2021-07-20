@@ -13,9 +13,12 @@ user表结构
 |  :----  | :----  |
 |  jim  | 1234  |
 
+
+
 user_information表结构
-|  id   | username  |  age  | gender  | height |
-|  :----  | :----  |:----|:----|
-|  1  | jim | 12 | male| 165|
+
+| id | username | age | gender | height |
+| :-----| :----- | :----- | :----- | :----- |
+| 1 | jim | 12 | male | 165 |
 
 
